@@ -11,7 +11,7 @@ title: Projects
 
 <section class="card">
   <h2>Electrifying Australia’s Road Freight</h2>
-  <p><strong>Group Project</strong> — SID’s: 540967588, 530538392, 530572640, 510675280, 520456125</p>
+  <p><strong>Group Project</strong></p>
   <p>This project evaluates the feasibility of transitioning Australia's road freight industry from fossil fuels to renewable energy sources, aiming for net-zero emissions by 2050.</p>
   <h3>Key Findings</h3>
   <ul class="skills-list">
