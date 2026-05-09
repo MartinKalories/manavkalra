@@ -47,5 +47,6 @@ title: Home
     <li>Markdown-driven GitHub Pages sites</li>
     <li>Data analysis and machine learning fundamentals</li>
     <li>Presenting work with a strong visual resume style</li>
+    <li>Research and analysis: led group project on electrifying road freight, including financial modeling and stakeholder analysis</li>
   </ul>
 </section>
