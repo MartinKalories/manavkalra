@@ -58,6 +58,19 @@ title: Projects
   </section>
 
   <section class="project-block">
+    <h2>Analysis and Methodology</h2>
+    <p>This project used a scenario-based analysis to compare technology, policy, and financial outcomes across three adoption models. We combined published data with assumptions to estimate costs, emissions, and net present value for each case.</p>
+    <ul class="project-list">
+      <li>Defined scenarios for low, medium, and high EV adoption rates through 2050.</li>
+      <li>Modeled infrastructure ownership using government-owned land and private operators.</li>
+      <li>Tested variable energy prices, demand charges, and tax policies to estimate profitability.</li>
+      <li>Used a utilization-based charging model to evaluate range, charging time, and freight efficiency.</li>
+      <li>Analyzed stakeholder impacts across manufacturers, operators, government, and consumers.</li>
+      <li>Calculated NPV outcomes to identify the most realistic and sustainable implementation path.</li>
+    </ul>
+  </section>
+
+  <section class="project-block">
     <h2>Infrastructure Strategy</h2>
     <p>We recommend government-owned land leased to private operators for charging stations, with temporary subsidies and a demand-charge model to support early adoption while protecting freight efficiency.</p>
   </section>
