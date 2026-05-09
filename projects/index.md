@@ -59,14 +59,14 @@ title: Projects
 
   <section class="project-block">
     <h2>Analysis and Methodology</h2>
-    <p>This project used a scenario-based analysis to compare technology, policy, and financial outcomes across three adoption models. We combined published data with assumptions to estimate costs, emissions, and net present value for each case.</p>
+    <p>The analysis combined data from transport, energy, and policy sources to build a simplified scenario model for EV freight adoption. The goal was to show how range, cost, subsidies, and ownership structure influence the viability of a renewable freight network.</p>
     <ul class="project-list">
-      <li>Defined scenarios for low, medium, and high EV adoption rates through 2050.</li>
-      <li>Modeled infrastructure ownership using government-owned land and private operators.</li>
-      <li>Tested variable energy prices, demand charges, and tax policies to estimate profitability.</li>
-      <li>Used a utilization-based charging model to evaluate range, charging time, and freight efficiency.</li>
-      <li>Analyzed stakeholder impacts across manufacturers, operators, government, and consumers.</li>
-      <li>Calculated NPV outcomes to identify the most realistic and sustainable implementation path.</li>
+      <li>Defined three scenarios: low adoption, high adoption, and a realistic middle ground.</li>
+      <li>Modeled infrastructure using government-owned land with private operators running charging stations.</li>
+      <li>Included variables for energy prices, demand charges, corporate tax, and equipment costs.</li>
+      <li>Used a charging-utilization model to compare range, drive time, break time, and recharging efficiency.</li>
+      <li>Evaluated emissions and economic impact using published data for freight emissions, renewable targets, and transport costs.</li>
+      <li>Calculated net present value for each scenario to determine the most feasible policy and investment approach.</li>
     </ul>
   </section>
 
