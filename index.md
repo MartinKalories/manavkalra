@@ -17,6 +17,7 @@ title: Home
   </div>
 
   <p>I turn academic insight into clean online profiles, with a focus on structured content, well-presented results, and forward-looking technical growth.</p>
+  <p style="margin-top:24px;"><a class="btn btn-primary" href="{{ site.baseurl }}/resume/">Download CV / Print PDF</a></p>
 </section>
 
 <div class="resume-grid">
