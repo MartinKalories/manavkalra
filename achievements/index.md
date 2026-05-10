@@ -6,28 +6,32 @@ title: Achievements
 <section class="page-intro">
   <p style="margin:0; color:#4f46e5; font-weight:700; letter-spacing:0.14em; text-transform:uppercase;">Career highlights</p>
   <h1>Achievements</h1>
-  <p>Proven wins in education, project delivery, certifications, and community contributions. Each achievement is a step toward stronger professional impact.</p>
+  <p>Academic awards, leadership roles, and practical impact drawn directly from my university and school experience.</p>
 </section>
 
 <ul class="achievements-list">
   <li class="achievement-item">
-    <h3>Computer Science graduate</h3>
-    <p>Graduated in 2025 with honors, focusing on software development and systems design.</p>
+    <h3>University of Sydney academic achievement</h3>
+    <p>Studying Bachelor of Science (Advanced) in Astrophysics with Advanced Studies in Finance, holding a WAM of 73.</p>
   </li>
   <li class="achievement-item">
-    <h3>Portfolio website built</h3>
-    <p>Designed and launched a Jekyll-based GitHub Pages site to showcase work, content, and technical documentation.</p>
+    <h3>Newington College top performer</h3>
+    <p>IB Diploma graduate with a score of 38/45 and ATAR 97; Dux of junior school in 2016.</p>
   </li>
   <li class="achievement-item">
-    <h3>Automation project</h3>
-    <p>Created a Python automation script that reduced manual data processing effort and improved reliability.</p>
+    <h3>Leadership positions</h3>
+    <p>Treasurer of the University of Sydney Physics Society (2024–2025) and Newington College Full College Prefect.</p>
   </li>
   <li class="achievement-item">
-    <h3>Industry certifications</h3>
-    <p>Completed the Google IT Support Professional Certificate and earned AWS Cloud Practitioner certification.</p>
+    <h3>Distinctions and awards</h3>
+    <p>Recipient of the Duke of Edinburgh Award and Debating Colours.</p>
   </li>
   <li class="achievement-item">
-    <h3>Open-source contributions</h3>
-    <p>Supported community projects with pull requests and volunteered as a mentor for coding bootcamps.</p>
+    <h3>Teaching and mentoring</h3>
+    <p>Provided maths and physics tutoring through school referral programs, using adaptive instruction to support student success.</p>
+  </li>
+  <li class="achievement-item">
+    <h3>Project leadership</h3>
+    <p>Delivered a group research project on electrifying Australia’s road freight, including scenario analysis, infrastructure proposals, and financial outcomes.</p>
   </li>
 </ul>
