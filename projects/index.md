@@ -92,4 +92,26 @@ title: Projects
       </div>
     </div>
   </section>
+
+  <div class="project-banner">
+    <div>
+      <p class="project-tag">Honours Project · University of Sydney</p>
+      <h1>Photonic Lantern Mode Prediction</h1>
+      <p class="project-subtitle">A deep-learning approach to reconstruct optical wavefront and point-spread function information from photonic lantern images.</p>
+    </div>
+    <div class="project-meta">
+      <p>Research Project</p>
+    </div>
+  </div>
+
+  <section class="project-block">
+    <h2>Project Overview</h2>
+    <p>For this honours project, I developed a Python-based deep learning toolkit that recreates optical wavefronts and point-spread functions from photonic lantern images using convolutional neural networks and Bayesian optimisations.</p>
+    <ul class="project-list">
+      <li>Implemented fiber mode simulation using step-index fiber theory.</li>
+      <li>Trained multi-output CNN models to predict wavefront and PSF outputs simultaneously.</li>
+      <li>Used Gaussian-process Bayesian optimisation to tune hyperparameters and improve performance.</li>
+      <li>Built analysis tools for parameter sensitivity, optimisation landscape visualisation, and result interpretation.</li>
+    </ul>
+  </section>
 </section>
